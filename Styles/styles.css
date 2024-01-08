@@ -290,9 +290,9 @@
     line-height: 32px;
 }
 
-#dhamaka {
-    /* position: absolute; */
-}
+/* #dhamaka {
+    position: absolute;
+} */
 
 /* protfolio-section */
 .red-title {
@@ -461,10 +461,10 @@
     margin-left: 0;
 }
 
-.left-colulmn {
-    /* width: 350px;
-    height: 100px; */
-}
+/* .left-colulmn {
+    width: 350px;
+    height: 100px;
+} */
 
 footer hr {
     /* width: 1100px; */
