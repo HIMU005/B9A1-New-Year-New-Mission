@@ -295,6 +295,9 @@
 } */
 
 /* protfolio-section */
+.section-protfolio{
+    margin-top: 100px;
+}
 .red-title {
     color: #F00;
     font-family: Inter;
